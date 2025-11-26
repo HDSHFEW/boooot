@@ -1,0 +1,25 @@
+{
+  "token": "MTMzODc0Nzc0MTUxNzM4MTY4NA.GJDKYz.qOjfi3GaMRTEZoy7--hplY7y5vTM22GWj4HC7A",
+  "prefix": "&",
+  "trackedUser": "1018176425393655889",
+  "userToReact": "1018176425393655889",
+  "emoji": "<:check:1018176425393655889>",
+  "ownerid": ["1018176425393655889"],
+  "SpotifyID": "2db55a71d7804283874155616db8d2d8",
+  "SpotifySecret": "d6edf7787b7c42f0abea2dcd6041f8bb",
+  "nodes": [
+    {
+      "host": "lavalink.serenetia.com",
+      "identifier": "Main",
+      "port": 443,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": true
+    }
+  ],
+  "reactions": {
+  },
+  "replyMessage": {
+    "detect": "1018176425393655889",
+    "reply": "**`Hada Rajli Ba3do Mano`**"
+  }
+}
