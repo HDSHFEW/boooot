@@ -194,4 +194,4 @@ client.on('voiceStateUpdate', async (oldState, newState) => {
 // ===========================
 // LOGIN
 // ===========================
-client.login("MTMzODc0Nzc0MTUxNzM4MTY4NA.GJDKYz.qOjfi3GaMRTEZoy7--hplY7y5vTM22GWj4HC7A");
+client.login("MTExMjgzNTgwMjI4ODg4MTcyNQ.Gbjh3B.zJGjBDxWxIBtNh-D0BMP_IKvEeA74ev6Np4gpY");
